@@ -30,7 +30,7 @@ mysite/
 │ ├── urls.py
 │ └── wsgi.py
 │
-└── polls/ # Nuestra app de encuestas
+└── polls/ # App de encuestas
 ├── migrations/
 ├── init.py
 ├── admin.py
